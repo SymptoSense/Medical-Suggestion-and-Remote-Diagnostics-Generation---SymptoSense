@@ -1,0 +1,60 @@
+Disease,Symptoms,Cures
+acanthamoebkeratitis,"Eye Pain, Eye redness, Watery Eyes, Tearing","antibiotics,antifungals,surgery"
+acute appendicitis,"Pain in lower abdomen, Nausea, Vomitting, Loss of Appetite",appendectomy
+acute kidney injury (aki) alzheimer's,"Swelling in Legs, Shortness of Breath, Confusion, Nausea","treatment for the underlying cause,such as dehydration,infection,medication side effect "
+adenovirus,"Eye Redness, Abdominal Pain, Headache, Urinal Blood","antibiotics,over-the-counter medications,rest,fluids"
+aflatoxicosis,"Nausea, Vomitting, Abdominal Pain, Loss of Appetite","there is no cure for aflatoxicosis,but treatment may include supportive care,liver transplantation"
+allergic rhinitis,"Runny Nose, Snoring, Nose Bleed, Ear Infection","over-the-counter medications,allergy shots"
+alzheimer's disease,"Memory Loss, Poor Judgment, Repetitiveness","there is no cure for alzheimer's disease,but there are treatments that can help manage the symptoms"
+anemia,"Fatigue, Shortness of Breath, Mouth Ulcers, Pale Skin Colour, Weight Loss","Iron Supplements, Balanced Diet, Adequate Sleep"
+anxiety disorder,"Fatigue, Lack of Concentration, Difficulty in sleep, Shivering","treatment for anxiety disorders may include therapy,medication,combination of both"
+aortic aneurysm,"Upper Back Pain, Shortness of Breath, Loss of Consciousness, Low Blood Pressure",surgery
+appendicitis,"Fever, Nausea, Abdominal Pain, Vomiting",appendectomy
+arthritis,"Joint Pain, Swelling, Stiffness","medication,physical therapy,lifestyle changes"
+asperger syndrome,"Anxiety, Depression, Social isolation","there is no cure for asperger syndrome,but there are treatments that can help manage the symptoms"
+asthma,"Shortness of Breath, Chest Pain, Cough, Wheezing, Loss of Sleep","treatment for asthmmay include medication,lifestyle changes,allergy shots"
+atopic dermatitis,"Rashes, Dry Skin, Itching, Cracked Skin","medication,lifestyle changes"
+bacterial meningitis,"Fever, Headache, Nausea, Vomiting, Dizziness, Cough",antibiotics
+bipolar disorder,"Depression, Extreme mood swing, Headache, Loss of Sleep","treatment for bipolar disorder may include medication,therapy,combination of both"
+blood clot,"Chest Pain, Cough, Shortness of Breath, Swelling, Watery Eyes","treatment for blood clot may include medication,surgery,combination of both"
+bronchitis,"Mucus Production, Chest Pain, Cough, Shortness of Breath, Swelling, Watery Eyes","antibiotics,over-the-counter medications,rest,fluids"
+bursitis,"Swelling, Stiffness, Tender Joints, Joint Pain","medication,rest,ice,compression,elevation"
+celiac disease,"Abdominal Pain, Diarrhoea, Nausea, Vomitting, Loss of Weight",gluten-free diet
+chickenpox,"Fatigue, Fever, Headache, Muscle Pain, Ulcers, Red Spots","antiviral medication,over-the-counter medications,rest,fluids"
+cholesterol ,"Chest Pain, Dizziness, Stroke, Nausea","diet,exercise,medication"
+common cold,"Runny Nose, Cough, Watery Eyes, Sneezing, Headache, Congestion","Stay Hydrated, Nasal Washing, Antibiotics, Medication"
+chronic kidney disease,"Blood in Urine, Loss of Apetite, Loss of Weight, Frequent Urination","treatment for the underlying cause,such as high blood pressure,diabetes,an infection"
+chronic obstructive pulmonary,"Fatigue, Shortness of Breath, Wheezing, Loss of Weight","treatment for copd may include medication,lifestyle changes,oxygen therapy"
+conjunctivitis,"Redness in eye, Itching, Seizures, Irritation",over-the-counter medications warm compresses
+crohn's disease,"Diarrhea, Fever, Fatigue, Abdominal Pain","medication, surgery"
+dementia,"lack of Concentration, Memory loss, Mood Swings, Depression",there is no cure for dementia but there are treatments that can help manage the symptoms
+depression ,"Anxiety, Irritation, Sadness, Mood Swings",treatment for depression may include medication therapy combination of both
+diabetes,"frequent Urination, Weight Loss, Hungriness, Blurry Vision",diet exercise medication
+diarrhoea,"Abdominal Pain, Fever, Vomiting, Bloating","over-the-counter medications,rest,fluids"
+epilepsy fibromyalgia,"Joint Stiffness, Numbness, Bloating, lack of Concentration","medication, surgery"
+erectile dysfunction,"lack of Sexual Desire, Trouble getting erection, low Self Esteem, Stress ","medication, lifestyle changes surgery "
+ food poisoning,"Abdominal Pain, Diarrhea, Fever, Headache",over-the-counter medications rest fluids
+fibromyalgi,"Fatigue, lack of Concentration, Body Pain, Mood Swings","medication, lifestyle changes "
+flu,"Fever, Headache, Coughing, Runny Nose","over-the-counter medications rest, fluids"
+gallstones,"Fever, Abdominal Pain, Vomiting, Back Pain ",surgery
+gonorrhea,"Painful Urination, Sore Throat, Swollen Testicles, Unusual Discharge ",antibiotics
+hepatitis,"Bloating, Fatigue, Vomiting, Loss of Appetite",treatment for hepatitis may include medication rest lifestyle changes
+influenza,"Fever, Sore Throat, Headache, Cough",over-the-counter medications rest fluids
+irritable bowel syndrome (ibs),"Abdominal Pain, Bloating, Diarrhea, Indigestion ",treatment for ibs may include diet lifestyle changes medication
+kidney stones ,"Urinal Bleeding, Abdominal Pain, Vomiting, Fever ",surgery
+malaria,"Fatigue, Flu, Vomiting, Headache",antimalarial drugs
+measles,"Fever, Cough, Rashes, runny Nose",measles vaccine
+meningitis,"Fever, Vomiting, lack of Concentration, Body Pain",antibiotics
+mononucleosis,"Rashes, Fatigue, Fever, Sore Throat",there is no cure for mononucleosis but symptoms can be treated with rest fluids over-the-counter medications
+peptic ulcer disease ,"Vomiting,  Abdominal Pain, Weight Loss, Nausea",medication lifestyle changes surgery 
+peripheral artery disease,"Leg Pain, Numbness, Erectile Dysfunction, Weakness",medication lifestyle changes surgery
+pneumonia,"Cough, Fatigue, Fever, Shiverness",antibiotics over-the-counter medications rest fluids
+rabies,"Fever, Itching of Wound, Nausea, Fatigue",rabies vaccine
+ arthritis,"Redness, Swelling in Joints, Body Pain, Stiffness","medication, physical therapy, lifestyle changes"
+salmonella,"Diarrhea, Fever, Abdominal Pain, Vomiting",antibiotics
+shingles tuberculosis (tb),"Coughing of Blood , Chest Pain, Fever, Weight Loss ",antiviral medication
+sunstroke,"Fever, Headache, Vomiting, Weight Loss",emergency medical services
+ulcerative colitis,"Abdominal Pain, Diarrhea, Fever, Weight Loss","medication, surgery"
+urinary tract infection (uti),"Abdominal Pain, Frequent Urination, Pain while Urination, Urinational Bleeding",antibiotics
+varicose veins,"Leg Pain, Bluish Veins, Swelling, Numbness","surgery, compression stockings, lifestyle changes"
+yeast infection,"Itching in Vagina, Irritation in Vagina, Redness, Pain while Urination",over-the-counter medications prescription medications

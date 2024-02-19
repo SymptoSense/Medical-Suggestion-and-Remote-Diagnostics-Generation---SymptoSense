@@ -1,2 +1,7 @@
-# Medical-Suggestion-and-Remote-Diagnostics-Generation---SymptoSense
-Medical Suggestion and Remote  Diagnostics Generation is a system that leverages technology, such as artificial intelligence and telemedicine, to provide patients with medical advice,suggestions, and diagnostic insights remotely. It assists in analyzing symptoms, offering medical guidance, and generating preliminary diagnostics.
+# multiple-disease-prediction-streamlit-app
+This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+
+app.py is the streamlit app code.
+run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+
+You may need to install additional libraries for running the jupyter notebooks.
