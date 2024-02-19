@@ -11,6 +11,8 @@ from streamlit_option_menu import option_menu
 
 # Set page configuration
 def symptomcheck():
+        current_directory = os.getcwd()
+
         title_html = '''
             <div class="title">
                 <h1 class="custom-title" style= "color: white;padding-top: 10px;">Check your symptoms</h1>
@@ -19,8 +21,11 @@ def symptomcheck():
         st.markdown(title_html, unsafe_allow_html=True)
 
         # Creating a DataFrame
-        df = pd.read_csv(r'C:\Users\DELL\Desktop\Medical Suggestion and Remote Diagnostics - DBDA10(PG-DBDA)\SymptoSense - DBDA10\dataset\symptom_checker.csv')
 
+       # csv_relative_path = os.path.relpath(r'../dataset/symptom_checker.csv', current_directory)
+        #print("sadneep path", csv_relative_path, "current", current_directory)
+        #df = pd.read_csv(csv_relative_path)
+        df = pd.read_csv(r'views/symptom_checker.csv')
     # Preprocessing: Split the symptoms and replace underscores with spaces
         df['Symptoms'] = df['Symptoms'].str.replace('_', ' ').str.split(',')
 
